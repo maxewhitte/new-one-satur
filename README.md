@@ -1,2 +1,2 @@
-# skyflaren.github.io
-originally conceived as a photography portfolio a year ago, now is a portfolio website
+# michaelWu.github.io
+originally conceived as a personal webiste a year ago, now is a portfolio website
